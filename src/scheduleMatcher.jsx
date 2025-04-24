@@ -75,7 +75,7 @@ function ScheduleMatcher() {
 
   return (
     <div className="schedule-container">
-      <h1 className="title">누군가에게 이로운 페이지</h1>
+      <h1 className="title">합주 스케쥴 Maker</h1>
 
       <div className="form-section">
         <input
